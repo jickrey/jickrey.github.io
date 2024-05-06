@@ -6,7 +6,7 @@
     <figcaption style="font-size: 1em;">**奖1**</figcaption>  
   </figure>  
   <figure style="display: flex; flex-direction: column; align-items: center;">  
-    <img src='./images/5.2.png' alt="机器学习示例图" style="width: 20em; height: auto; margin-bottom: 2em;">  
+    <img src='./images/5.4.png' alt="机器学习示例图" style="width: 20em; height: auto; margin-bottom: 2em;">  
     <figcaption style="font-size: 1em;">**奖2**</figcaption>  
   </figure>  
   <figure style="display: flex; flex-direction: column; align-items: center;">  
