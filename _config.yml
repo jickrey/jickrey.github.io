@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "孙哲"
-description              : "南京邮电大学"
+description              : "副教授"
 repository               : "jickrey/jickrey.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "zhesunny.njupt.edu.cn"
+  email            : "zhesunny@njupt.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jickrey"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :

@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+分别荣获了国家邮政局“邮政行业科技英才”，交通部“交通运输青年科技英才”人才头衔和中国物流与采购联合会科学进步三等奖（排名第一），指导各类大学生创新竞赛并获得国家级金奖多项。担任南京市专家库评审专家、中国通信学会邮政通信专委会委员、江苏省通信学会委员和国际知名期刊审稿人等工作<img src='./images/tiktok.png' style='width: 6em;'>
 - *2021.10* Tencent Scholarship (Top 1%)
 - *2021.10* National Scholarship (Top 1%)
 - *2020.12* [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5%A5%96%E5%AD%A6%E9%87%91/9929412) (10 students in the world each year)
