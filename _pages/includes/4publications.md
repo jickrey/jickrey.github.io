@@ -2,19 +2,14 @@
 # 📝 Publications  
 国内外知名刊物发表论文**30余篇**（SCI收录20+），授权发明专利**20多件**。
 
-**加粗**[蓝底链接](mailto:ren.yi@bytedance.com).
-
-[Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) <img src='./images/microsoft_logo.svg' style="width: 4em;">
-
-<a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-## 🎙 Speech Synthesis
+## 🎙 领域1
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">XXX 2014</div><img src='images/4.1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Optimal tunning of type-2 fuzzy logic power system stabilizer based on differential evolution algorithm](https://www.sciencedirect.com/science/article/pii/S0142061514002063) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+**Zhe Sun**, Ning Wang, Dipti Srinivasan, Yunrui Bi
 
 [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
