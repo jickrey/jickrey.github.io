@@ -1,6 +1,18 @@
 # 🔥 Researchs
-长期从事系统建模与优化、机器学习、深度学习等人工智能领域的研究工作。
- <div style="display: flex; justify-content: space-around;"> <img src='./images/1.1.png' alt="系统建模与优化示例图" style="width: 25em; height: auto; margin: 1em;"> <img src='./images/1.2.png' alt="机器学习示例图" style="width: 25em; height: auto; margin: 1em;"> <img src='./images/1.3.png' alt="深度学习示例图" style="width: 25em; height: auto; margin: 1em;"> </div>
+<div style="display: flex; justify-content: space-around;">  
+  <figure style="text-align: center;">  
+    <img src='./images/1.1.png' alt="系统建模与优化示例图" style="width: 25em; height: auto; margin-bottom: 1em;">  
+    <figcaption style="font-size: 1em; text-align: center;">系统建模与优化</figcaption>  
+  </figure>  
+  <figure style="text-align: center;">  
+    <img src='./images/1.2.png' alt="机器学习示例图" style="width: 25em; height: auto; margin-bottom: 1em;">  
+    <figcaption style="font-size: 1em; text-align: center;">机器学习</figcaption>  
+  </figure>  
+  <figure style="text-align: center;">  
+    <img src='./images/1.3.png' alt="深度学习示例图" style="width: 25em; height: auto; margin-bottom: 1em;">  
+    <figcaption style="font-size: 1em; text-align: center;">深度学习</figcaption>  
+  </figure>  
+</div>
 - *斜体*: 🎉 
 ，并在国内外知名刊物发表论文30余篇（SCI收录20+），授权发明专利20多件，分别荣获了国家邮政局“邮政行业科技英才”，交通部“交通运输青年科技英才”人才头衔和中国物流与采购联合会科学进步三等奖（排名第一），指导各类大学生创新竞赛并获得国家级金奖多项。担任南京市专家库评审专家、中国通信学会邮政通信专委会委员、江苏省通信学会委员和国际知名期刊审稿人等工作<img src='./images/tiktok.png' style='width: 6em;'>
 
