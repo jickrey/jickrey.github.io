@@ -56,7 +56,9 @@
   <div style="width: 25%; text-align: center;">  
     <img src="./images/7/闻智.png" alt="闻智" style="border-radius: 50%; width: 100px; height: 100px;">  
     <p>闻智</p>   
-    <p>算法优化/工业建模/前后端、小程序开发</p>  
+    <p style="display: inline-block; padding: 5px 5px; background-color: #f2f2f2; border-radius: 10px; font-size: 12px; margin-left: 5px;">算法优化</p>  
+    <p style="display: inline-block; padding: 5px 5px; background-color: #f2f2f2; border-radius: 10px; font-size: 12px; margin-left: 5px;">工业建模</p>  
+    <p style="display: inline-block; padding: 5px 5px; background-color: #f2f2f2; border-radius: 10px; font-size: 12px; margin-left: 5px;">前后端、小程序开发</p>
   </div>  
     
   <!-- 第二个人， -->  
