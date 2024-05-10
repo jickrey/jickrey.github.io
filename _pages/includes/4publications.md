@@ -2,7 +2,7 @@
 # 📝 Publications  
 国内外知名刊物发表论文**30余篇**（SCI收录20+），授权发明专利**20多件**。
 
-## 🎙 启发式算法
+## 📑启发式算法
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy 2015</div><img src='images/4/4.1.png' alt="sym" width="100%"></div></div>
@@ -46,7 +46,7 @@
 - `IJFS` [An Adaptive DE Algorithm Based Fuzzy Logic Anti-swing Controller for Overhead Crane Systems](https://link.springer.com/article/10.1007/s40815-020-00883-0),**Zhe Sun**, Yawen Ling, Hongbo Qu, Feng Xiang, Zhixin Sun & Fan Wu.
 - `IJIRA` [Designing and application of modified SSA based ADRC controller for overhead crane systems](https://link.springer.com/article/10.1007/s41315-021-00207-x),**Zhe Sun**, Jichao Zhou, Yawen Ling, Xiangpeng Xie, Yunfeng Yu & Zhixin Sun.
 
-## 🎙 模糊控制理论
+## 📑模糊控制理论
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Mathematical Modelling 2015</div><img src='images/4/4.3.png' alt="sym" width="100%"></div></div>
@@ -84,7 +84,7 @@
 - `IJIRA` [Designing And Application Of Type-2 fuzzy PID control  for overhead crane systems](https://link.springer.com/article/10.1007/s41315-020-00157-w),**Zhe Sun**, Yawen Ling, Xin Tan, Yang Zhou & Zhixin Sun.
 
 
-## 🎙 物流调度
+## 📑物流调度
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Applications of Artificial Intelligence</div><img src='images/4/4.5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
