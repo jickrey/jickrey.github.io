@@ -86,7 +86,7 @@
 
 ## 🎙 物流调度
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Applications of Artificial Intelligence</div><img src='images/4.4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Applications of Artificial Intelligence</div><img src='images/4.5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An meta-cognitive based logistics human resource modeling and optimal scheduling](https://www.sciencedirect.com/science/article/pii/S0952197623019449) \\
@@ -100,7 +100,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">物流科技</div><img src='images/4.5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">物流科技</div><img src='images/4.6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [基于差分进化算法的多式联运物流运输问题研究](https://kns.cnki.net/kcms2/article/abstract?v=m2RMPZxbF1IJ3BgxVeJQue_o_r8ZijZxrsuetuKu7SNvoAKuxNXMoDxUeWTSNqHi9LgkTjfN_abT33DstsMHfDCFTHw2BwojmaHutFPgHFS1CdX1YlKJGQYD8d5XFFl6MvcCqkhWDcKC-NijF9Jm7Q==&uniplatform=NZKPT&language=CHS) \\
