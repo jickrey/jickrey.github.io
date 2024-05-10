@@ -61,7 +61,7 @@
     
   <!-- 第二个人， -->  
   <div style="width: 25%; text-align: center;">  
-    <img src="./images/7/程佳佳.png" alt="曹艺译" style="border-radius: 50%; width: 100px; height: 100px;">  
+    <img src="./images/7/程佳佳.jpg" alt="曹艺译" style="border-radius: 50%; width: 100px; height: 100px;">  
     <p>曹艺译</p>    
     <p>研究生</p>  
   </div>  
@@ -116,6 +116,7 @@
    <div style="width: 25%; text-align: center;">  
     <img src="./images/7/戴诗雨.jpg" alt="戴诗雨" style="border-radius: 50%; width: 100px; height: 100px;">  
     <p>戴诗雨</p>  
+    <p style="display: inline-block; padding: 5px 10px; background-color: #f2f2f2; border-radius: 10px;">群智能优化算法</p>
     <p>群智能优化算法/BP神经网络/快递数据预测</p>  
   </div>
 </div>
