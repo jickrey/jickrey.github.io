@@ -25,7 +25,9 @@
   <!-- ... -->
 </div>
 
-## 3️⃣ 研三
+## 研究生培养
+
+### 3️⃣ 研三
 <div style="display: flex; flex-wrap: wrap;">  
   <!-- 第一个人 -->  
   <div style="width: 25%; text-align: center;">  
@@ -50,7 +52,7 @@
   </div>
 </div>
 
-## 2️⃣ 研二
+### 2️⃣ 研二
 <div style="display: flex; flex-wrap: wrap;">  
   <!-- 第一个人 -->  
   <div style="width: 25%; text-align: center;">  
@@ -84,7 +86,7 @@
   </div>
 </div>
 
-## 1️⃣ 研一
+### 1️⃣ 研一
 <div style="display: flex; flex-wrap: wrap;">  
   <!-- 第一个人 -->  
   <div style="width: 25%; text-align: center;">  
@@ -134,3 +136,5 @@
     <p style="display: inline-block; padding: 5px 5px; background-color: #f2f2f2; border-radius: 10px; font-size: 12px; margin-left: 5px;">快递数据预测</p>
   </div>
 </div>
+
+## 本科生培养
