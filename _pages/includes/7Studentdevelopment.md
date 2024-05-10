@@ -43,7 +43,7 @@
   </div>  
 
   <div style="width: 25%; text-align: center;">  
-    <img src="./images/7/zhangweijie.jpg" alt="张文杰" style="border-radius: 50%; width: 100px; height: 100px;">  
+    <img src="./images/7/zhangwenjie.jpg" alt="张文杰" style="border-radius: 50%; width: 100px; height: 100px;">  
     <p>张文杰</p>
     <p>工商银行南通分行</p>  
     <p>星辰管培</p>  
