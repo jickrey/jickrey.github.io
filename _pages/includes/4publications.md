@@ -35,8 +35,9 @@
 - `物流科技` [基于差分进化算法的多式联运物流运输问题研究](https://kns.cnki.net/kcms2/article/abstract?v=m2RMPZxbF1IJ3BgxVeJQue_o_r8ZijZxrsuetuKu7SNvoAKuxNXMoDxUeWTSNqHi9LgkTjfN_abT33DstsMHfDCFTHw2BwojmaHutFPgHFS1CdX1YlKJGQYD8d5XFFl6MvcCqkhWDcKC-NijF9Jm7Q==&uniplatform=NZKPT&language=CHS) **孙哲**、刘晨磊、孙知信.
 
 ## 专利
--  基于货物量的人力资源配置方法, 授权发明专利，2021年公开；[*CN113256027A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
--  一种基于滑模控制理论的桥式吊车防摆控制方法, 授权发明专利，2018年公开；[*CN108427280A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
-- 一种适用于无人车的行人及障碍物检测算法,授权发明专利，2020年公开：[*CN111914688A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
+
 - 一种多传感器融合的无人车路面坑洼检测方法，授权发明专利，2023年公开：[*CN116311173A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
 - 一种考虑装卸约束的多车厢点对点取送货路径规划方法,授权发明专利，2023年公开：[*CN115952944A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
+-  基于货物量的人力资源配置方法, 授权发明专利，2021年公开；[*CN113256027A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
+- 一种适用于无人车的行人及障碍物检测算法,授权发明专利，2020年公开：[*CN111914688A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
+-  一种基于滑模控制理论的桥式吊车防摆控制方法, 授权发明专利，2018年公开；[*CN108427280A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
