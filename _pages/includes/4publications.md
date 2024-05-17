@@ -22,7 +22,7 @@
 - `IJEPES 2014` [Optimal tunning of type-2 fuzzy logic power system stabilizer based on differential evolution algorithm](https://www.sciencedirect.com/science/article/pii/S0142061514002063) **Zhe Sun**, Ning Wang, Dipti Srinivasan, Yunrui Bi.
 ( SCI Top，中科院2区，IF：5.2，**被引73次** )
 
-- `CCC 2015` [A DE based PID controller for two dimensional overhead crane](2015-A DE based PID controller for two dimensional overhead crane),**Zhe Sun**; Ning Wang; Yunrui Bi; Jinhui Zhao.
+- `CCC 2015` [A DE based PID controller for two dimensional overhead crane](https://ieeexplore.ieee.org/document/7260032/),**Zhe Sun**; Ning Wang; Yunrui Bi; Jinhui Zhao.
 
 - `IEEE Access` [Type-2 Fuzzy Sliding Mode Anti-Swing Controller Design and Optimization for Overhead Crane](https://ieeexplore.ieee.org/document/8465976),**Zhe Sun**; Yunrui Bi; Xuejian Zhao; Zhixin Sun; Chun Ying; Shuhua Tan.
 
