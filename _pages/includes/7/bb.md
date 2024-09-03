@@ -109,7 +109,6 @@
     <p style="display: inline-block; padding: 5px 5px; background-color: #f2f2f2; border-radius: 10px; font-size: 12px; margin-left: 5px;">Admitted to East China University of Science and Technology</p>
   </div>
 
-<div style="display: flex; flex-wrap: wrap;">  
   <!-- 第一个人 -->  
   <div style="width: 25%; text-align: center;">  
     <img src="../../../images/7/本科/已毕业/周纪超.png" alt="李隆" style="border-radius: 50%; width: 100px; height: 100px;">  
