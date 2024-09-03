@@ -1,18 +1,15 @@
 # 🏆 Contests and Awards
-指导学生参加各类物流行业创新竞赛，荣获第七届全国大学生物流设计大赛中二等奖（2021年）第六届全国“互联网+”快递业创新创业大赛金奖（2022年《高精度定位与导航派件无人车系统》）等。
-- 第五届全国“互联网+”快递大学生创新创业大赛**金**、铜奖
-- 南京邮电大学第21届“创新杯”三等奖
-- 第六届大学生物联网技术与应用“三创”大赛**一等奖**
-- 第七届全国“互联网+”快递业创新创业大赛国家级**金奖**
-- 第十三届中国大学生服务外包创新创业大赛国家级二等奖
-- 2022中国大学生计算机设计大赛国家级三等奖
-- 第八届3S杯大学生物联网技术与应用“三创”大赛国家级二等奖
-- 中国高校计算机大赛国家级三等奖
-- ACM-ICPC  国际大学生程序设计竞赛**国家级**铜奖
-- 全国互联网+快递业创新创业大赛全国**总决赛金奖**
-- 中国高校计算机大赛-团体程序天梯赛国家级**团体一等奖**
-- 第七届全国互联网+快递业创新创业大赛全国总决赛**金奖**
-- 2023年全国大学生物联网技术与应用“三创”大赛全国二等奖
-- 2024年美国（国际）大学生数学建模竞赛国际级三等奖
-- 蓝桥杯C++组省**一等奖**
-- 2023年SF-X智慧供应链高校菁英挑战赛全国三等奖
+Guided students to participate in various logistics industry innovation competitions, and won the second prize in the seventh National College Students' Logistics Design Competition (2021) and the gold prize in the sixth National "Internet +" Express Industry Innovation and Entrepreneurship Competition (2022 "High-precision Positioning and Navigation Delivery Unmanned Vehicle System").
+- The third prize of the International level of the 2024 United States (International) Undergraduate Mathematical Modeling Competition
+- National Second prize in the "Three Creations" Competition of National University Biotechnology and Application in 2023
+- In 2023, the third prize of SF-X Smart Supply Chain College Elite Challenge - the fifth National "Internet +" Express College Students Innovation and Entrepreneurship Competition **Gold** and Bronze Award
+- National Third Prize of 2022 China College Student Computer Design Competition
+- China University Computer Competition - Team Program Ladder Competition National **team first prize**
+- National Internet + Express Industry Innovation and Entrepreneurship Competition National **Final Gold medal**
+- The 7th National "Internet +" Express Industry Innovation and Entrepreneurship Competition National **Gold Award**
+- The first prize of the sixth University Biological Networking Technology and application "Three Creation" Competition
+- National third prize in China University Computer Competition
+- The 13th China College Students Service Outsourcing Innovation and Entrepreneurship Competition National second prize
+- The 8th 3S Cup University biological networking technology and application "three Creation" Competition national second prize
+- National bronze Award of ACM-ICPC International Programming Competition for College Students
+- The 7th National Internet + Express Industry Innovation and Entrepreneurship Competition National Final **Gold Award**

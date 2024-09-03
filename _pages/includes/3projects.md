@@ -1,18 +1,17 @@
 # 🏢 Projects
-##     纵横项目
-主持并参与了国家自然科学基金、重点研发计划、江苏省自然科学基金、博士后基金和校企合作项目。
-- 基于智能计算的欠驱动吊车建模与防摆控制研究
-- 基于人工智能技术的欠驱动吊车防摆控制研究
-- **南邮-圆通联合实验室大学生创新创业项目**
-- **南邮-金宁汇区块链技术创新研究院项目一区块链技术与应用项目**
-- 南邮-圆通联合实验室智慧物流大数据技术项目
-- 大数据可信认证服务项目
-- **南邮-南陵快递产业创新研究院无人化末端派送关键技术研究**
-- 流量计现场监测仪的监测与在线检定
-- 智能传感器及异构传输系统研发
-- 大数据环境下数据储算智能关键技术研究
-- **面向多属性海量终端的零信任访问控制安全服务**
+##     Vertical and horizontal project
+He has presided over and participated in the National Natural Science Foundation of China, Key Research and Development Program, Natural Science Foundation of Jiangsu Province, postdoctoral fund and school-enterprise cooperation projects.
+- Research on modeling and anti-swing control of underactuated crane based on intelligent computing
+- Research on anti-swing control of underactuated crane based on artificial intelligence technology
+- **Undergraduate Innovation and Entrepreneurship Project of NPT - YTO Joint Laboratory**
+- Smart Logistics Big Data Technology Project of NPT - YTO Joint Laboratory
+- Big Data trusted authentication service project
+- **Research on key technologies of unmanned terminal delivery in NPT - Nanling Express Industry Innovation Research Institute**
+- Monitoring and on-line verification of flowmeter field monitor
+- Research and development of intelligent sensor and heterogeneous transmission system
+- Research on Key Technologies of Data Storage and Computing Intelligence in Big Data Environment
+- **Zero-trust access control security Service for massive terminals with multiple attributes**
 
-##     授课教学
-- **本科生授课**：人工智能技术与应用，邮政工程导论
-- **研究生授课**：智能运输系统
+##     Teaching and teaching
+- **Undergraduate Course**:Artificial Intelligence Technology and Applications
+- **Graduate taught**:Intelligent Transportation systems, algorithm design

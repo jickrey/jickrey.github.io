@@ -1,4 +1,6 @@
 # 🎉 Honors and Awards
-- 国家邮政局“邮政行业科技英才”
-- 交通部“交通运输青年科技英才”人才头衔和中国物流与采购联合会科学进步三等奖（排名第一）
-- 南京市专家库评审专家、中国通信学会邮政通信专委会委员、江苏省通信学会委员和国际知名期刊审稿人。
+- State Post Bureau "Science and Technology Talents in Postal Industry"
+- Talent title of "Young Science and Technology Talents of Transportation" of Ministry of Communications and the Third Prize of Scientific Progress of China Federation of Logistics and Purchasing (ranked first)
+- Nanjing expert database evaluation expert
+- Member of China Communications Society Post Communications Committee
+- Member of Jiangsu Communications Society and international well-known journal reviewer.

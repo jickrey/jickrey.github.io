@@ -1,4 +1,3 @@
 # 🔬 Researchs
-**系统建模与优化**:物流车辆路径、无人机飞行、悬臂式吊车\\
-**机器学习**:PSO优化算法、灰狼优化算法\\
-**深度学习**:Transformer框架、LSTM框架
+**System modeling and control**: logistics network planning, underactuated system control,\\
+**robot control and other machine learning and artificial intelligence**: neural networks, heuristic intelligent algorithms, LSTM, Transformer framework, Yolo, etc
