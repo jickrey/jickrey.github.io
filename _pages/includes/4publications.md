@@ -5,11 +5,16 @@ He has published more than **30** papers (SCI + 20) in well-known journals at ho
 ## 📑 Papers
 - `Energy 2021` [Proton exchange membrane fuel cell model parameter identification based on dynamic differential evolution with collective guidance factor algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0360544220321630)**Zhe Sun**, Dan Cao, Yawen Ling, Feng Xiang.et al.( SCI Top，Cas District 1，IF：14.9，**Cited 39 times** )
 
+- `Computers, Materials & Continua 2019` [Designing and Optimization of Fuzzy Sliding Mode Controller for Nonlinear Systems](https://www.techscience.com/cmc/v61n1/23102),**Zhe Sun**, Yunrui Bi, Songle Chen, Bing Hu, Feng Xiang, Yawen Ling, Zhixin Sun.
+  
 - `IEEE 2017` [Application of Adaptive Genetic Algorithm for Multimodal Transportation Logistics Distribution Routing Problem](https://ieeexplore.ieee.org/document/8328370),**Zhe Sun**; Zhixin Sun; Xuejian Zhao; Long Jin; Wei Zhang. 
 
 - `Energy 2015` [Parameter identification of PEMFC model based on hybrid adaptive differential evolution algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0360544215008373) **Zhe Sun**,Ning Wang, Yunrui Bi, D. Srinivasan.( SCI Top，Cas District 1，IF：14.9，**Cited 138 times** )
 
 - `CCC 2015` [A DE based PID controller for two dimensional overhead crane](https://ieeexplore.ieee.org/document/7260032/),**Zhe Sun**; Ning Wang; Yunrui Bi; Jinhui Zhao.
+
+- `Applied Mathematical Modelling 2015` [Type-1/type-2 fuzzy logic systems optimization with RNA genetic algorithm for double inverted pendulum](https://www.sciencedirect.com/science/article/pii/S0307904X14002054) **Zhe Sun**, Ning Wang, Yunrui Bi.
+( SCI Top，Cas District 1，IF：9.4，**Cited 50 times** )
 
 - `IJEPES 2014` [Optimal tunning of type-2 fuzzy logic power system stabilizer based on differential evolution algorithm](https://www.sciencedirect.com/science/article/pii/S0142061514002063) **Zhe Sun**, Ning Wang, Dipti Srinivasan, Yunrui Bi.
 ( SCI Top，Cas District 2，IF：5.2，**Cited 73 times** )
@@ -20,12 +25,7 @@ He has published more than **30** papers (SCI + 20) in well-known journals at ho
 
 - `IJIRA` [Designing and application of modified SSA based ADRC controller for overhead crane systems](https://link.springer.com/article/10.1007/s41315-021-00207-x),**Zhe Sun**, Jichao Zhou, Yawen Ling, Xiangpeng Xie, Yunfeng Yu & Zhixin Sun.
 
-- `Applied Mathematical Modelling 2015` [Type-1/type-2 fuzzy logic systems optimization with RNA genetic algorithm for double inverted pendulum](https://www.sciencedirect.com/science/article/pii/S0307904X14002054) **Zhe Sun**, Ning Wang, Yunrui Bi.
-( SCI Top，Cas District 1，IF：9.4，**Cited 50 times** )
-
 - `IEEE Access` [Type-2 Fuzzy Sliding Mode Anti-Swing Controller Design and Optimization for Overhead Crane](https://ieeexplore.ieee.org/document/8465976),**Zhe Sun**; Yunrui Bi; Xuejian Zhao; Zhixin Sun; Chun Ying; Shuhua Tan.
-
-- `Computers, Materials & Continua 2019` [Designing and Optimization of Fuzzy Sliding Mode Controller for Nonlinear Systems](https://www.techscience.com/cmc/v61n1/23102),**Zhe Sun**, Yunrui Bi, Songle Chen, Bing Hu, Feng Xiang, Yawen Ling, Zhixin Sun.
 
 - `IJIRA` [Designing And Application Of Type-2 fuzzy PID control  for overhead crane systems](https://link.springer.com/article/10.1007/s41315-020-00157-w),**Zhe Sun**, Yawen Ling, Xin Tan, Yang Zhou & Zhixin Sun.
 
