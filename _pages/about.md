@@ -21,4 +21,4 @@ redirect_from:
 
 {% include_relative includes/6contest.md %}
 
-{% include_relative includes/7Studentdevelopment.md %}
+{% include_relative includes/7/毕业研究生.md %}
