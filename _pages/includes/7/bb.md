@@ -108,7 +108,6 @@
     <p>Undergraduates of Class 2018</p>  
     <p style="display: inline-block; padding: 5px 5px; background-color: #f2f2f2; border-radius: 10px; font-size: 12px; margin-left: 5px;">Admitted to East China University of Science and Technology</p>
   </div>
-</div>
 
 <div style="display: flex; flex-wrap: wrap;">  
   <!-- 第一个人 -->  
@@ -147,20 +146,21 @@
   <div style="width: 25%; text-align: center;">  
     <img src="../../../images/7/本科/已毕业/刘博旭.jpg" alt="曹艺译" style="border-radius: 50%; width: 100px; height: 100px;">  
     <p>Liu BoXv</p>    
+    <p>Undergraduates of Class 2020</p>  
   </div>  
 
   <div style="width: 25%; text-align: center;">  
     <img src="../../../images/7/本科/已毕业/马青宇.jpg" alt="宋研" style="border-radius: 50%; width: 100px; height: 100px;">  
     <p>Ma QingYu</p>  
     <p>Undergraduates of Class 2020</p>  
-    <p>Zhejiang University</p>
+    <p style="display: inline-block; padding: 5px 5px; background-color: #f2f2f2; border-radius: 10px; font-size: 12px; margin-left: 5px;">Zhejiang University</p>
   </div>
 
    <div style="width: 25%; text-align: center;">  
     <img src="../../../images/7/本科/已毕业/潘丽丽.jpg" alt="程佳佳" style="border-radius: 50%; width: 100px; height: 100px;">  
     <p>Pan LiLi</p>  
     <p>Undergraduates of Class 2020</p>  
-    <p>Southeast University</p>
+    <p style="display: inline-block; padding: 5px 5px; background-color: #f2f2f2; border-radius: 10px; font-size: 12px; margin-left: 5px;">Southeast University</p>
   </div>
 </div>
 
@@ -173,7 +173,7 @@
     <img src="../../../images/7/本科/已毕业/邵松帅.jpg" alt="闻智" style="border-radius: 50%; width: 100px; height: 100px;">  
     <p>Shao Songshuai</p> 
     <p>Undergraduates of Class 2020</p>  
-    <p>Chongqing University</p>
+    <p style="display: inline-block; padding: 5px 5px; background-color: #f2f2f2; border-radius: 10px; font-size: 12px; margin-left: 5px;">Chongqing University</p>
   </div>  
     
   <!-- 第二个人， -->  
@@ -181,7 +181,7 @@
     <img src="../../../images/7/本科/已毕业/于昊永.jpg" alt="曹艺译" style="border-radius: 50%; width: 100px; height: 100px;">  
     <p>Yu HaoYong</p>    
     <p>Undergraduates of Class 2020</p>  
-    <p>Nanjing University of Science and Technology</p>
+    <p style="display: inline-block; padding: 5px 5px; background-color: #f2f2f2; border-radius: 10px; font-size: 12px; margin-left: 5px;">Nanjing University of Science and Technology</p>
   </div>  
 
   <div style="width: 25%; text-align: center;">  
