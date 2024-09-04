@@ -17,10 +17,6 @@ redirect_from:
 
 {% include_relative includes/4publications.md %}
 
-{% include_relative includes/5honers.md %}
-
-{% include_relative includes/6contest.md %}
-
 {% include_relative includes/7/by.md %}
 {% include_relative includes/7/bb.md %}
 {% include_relative includes/7/y3.md %}
