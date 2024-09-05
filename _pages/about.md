@@ -19,12 +19,14 @@ redirect_from:
 
 # 🎖 Student Developments 
 ## graduate student
-{% include_relative includes/7/by.md %}
-{% include_relative includes/7/bb.md %}
-{% include_relative includes/7/y3.md %}
-{% include_relative includes/7/y2.md %}
-{% include_relative includes/7/y1.md %}
-{% include_relative includes/7/d4.md %}
-{% include_relative includes/7/d3.md %}
-{% include_relative includes/7/d2.md %}
+{% include_relative includes/7/y2020.md %}
+{% include_relative includes/7/y2021.md %}
+{% include_relative includes/7/y2022.md %}
+{% include_relative includes/7/y2023.md %}
 ## undergraduate student
+{% include_relative includes/7/b2017.md %}
+{% include_relative includes/7/b2018.md %}
+{% include_relative includes/7/b2019.md %}
+{% include_relative includes/7/b2020.md %}
+{% include_relative includes/7/b2021.md %}
+{% include_relative includes/7/b2022.md %}
