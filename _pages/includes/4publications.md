@@ -11,7 +11,7 @@ He has published more than **30** papers (SCI + 20) in well-known journals at ho
 - [Designing and application of modified SSA based ADRC controller for overhead crane systems](https://link.springer.com/article/10.1007/s41315-021-00207-x), International Journal of Intelligent Robotics and Applications ,**Zhe Sun**,et al.07 January 2022,Volume 6, pages 449–466, (2022)
 
 ### 2021
-- [Proton exchange membrane fuel cell model parameter identification based on dynamic differential evolution with collective guidance factor algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0360544220321630).Energy.**Zhe Sun**, Dan Cao, Yawen Ling, Feng Xiang.et al,Volume 216, 1 February 2021, 119056( SCI Top，Cas District 1，IF：14.9，**Cited 39 times** )
+- [Proton exchange membrane fuel cell model parameter identification based on dynamic differential evolution with collective guidance factor algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0360544220321630).Energy.**Zhe Sun**,et al.Volume 216, 1 February 2021, 119056( SCI Top，Cas District 1，IF：14.9，**Cited 39 times** )
 - [Non-negative discriminative collective target nearest-neighbor representation](https://link.springer.com/article/10.1007/s41315-021-00169-0#:~:text=In%20this%20paper,%20we%20propose%20a%20novel%20method%20named%20Non-negative).International Journal of Intelligent Robotics and Applications.**Zhe Sun**,et al.19 April 2021,Volume 6, pages 1–9.
 - [Designing And Application Of Type-2 fuzzy PID control  for overhead crane systems](https://link.springer.com/article/10.1007/s41315-020-00157-w). International Journal of Intelligent Robotics and Applications.**Zhe Sun**, et al.Volume 5, pages 10–22, (2021)
 
