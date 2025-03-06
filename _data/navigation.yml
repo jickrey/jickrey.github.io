@@ -9,6 +9,9 @@ main:
   - title: "研发项目"
     url: "/#-projects"
 
+  - title: "科研成果"
+    url: "/#-publications"
+
   - title: "学生培养"
     url: "/#-student-developments"
 
