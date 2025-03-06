@@ -6,15 +6,12 @@ main:
   - title: "研究方向"
     url: "/#-researchs"
 
-  - title: "Projects"
+  - title: "研发项目"
     url: "/#-projects"
 
-  - title: "Honors and Awards"
+  - title: "个人荣誉"
     url: "/#-honors-and-awards"
 
-  - title: "Contests and Awards"
-    url: "/#-contests-and-awards"
-
-  - title: "Student Developments"
+  - title: "学生培养"
     url: "/#-student-developments"
 

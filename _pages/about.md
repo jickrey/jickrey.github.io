@@ -18,12 +18,13 @@ redirect_from:
 {% include_relative includes/4publications.md %}
 
 # 🎖 Student Developments 
-## graduate student
+## 研究生
 {% include_relative includes/7/y2020.md %}
 {% include_relative includes/7/y2021.md %}
 {% include_relative includes/7/y2022.md %}
 {% include_relative includes/7/y2023.md %}
-## undergraduate student
+{% include_relative includes/7/y2024.md %}
+## 本科生
 {% include_relative includes/7/b2017.md %}
 {% include_relative includes/7/b2018.md %}
 {% include_relative includes/7/b2019.md %}
