@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhe Sun"
-description              : "Associate professor"
+title                    : "孙 哲"
+description              : "副教授"
 repository               : "jickrey/jickrey.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Sun Zhe"
+  name             : "孙哲"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanjing University of Posts and Telecommunications"
-  location         : "Nanjing, Jiangsu"
+  bio              : "南京邮电大学"
+  location         : "江苏南京"
   employer         :
   pubmed           : 
   googlescholar    : 

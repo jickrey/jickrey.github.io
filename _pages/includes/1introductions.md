@@ -1,1 +1,1 @@
-Sun Zhe, now working in Nanjing University of Posts and Telecommunications, postgraduate supervisor, graduated from Zhejiang University of Control Science and Engineering in 2015, obtained a doctor's degree in engineering, National University of Singapore post-doctoral, and won the title of "Transportation Young Scientific and Technological Talents" of the Ministry of Communications and the "Postal Industry Scientific and Technological Talents" of the State Post Bureau.
+孙哲，现就职于南京邮电大学，担任研究生导师。2015 年毕业于浙江大学控制科学与工程专业，获工学博士学位，新加坡国立大学博士后，荣获交通运输部“交通运输青年科技英才”称号以及国家邮政局“邮政行业科技英才”称号。
