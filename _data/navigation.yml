@@ -4,13 +4,10 @@ main:
     url: "/#about-me"
 
   - title: "研究方向"
-    url: "/#-researchs"
+    url: "/#-研究方向"
 
   - title: "研发项目"
     url: "/#-projects"
-
-  - title: "个人荣誉"
-    url: "/#-honors-and-awards"
 
   - title: "学生培养"
     url: "/#-student-developments"
