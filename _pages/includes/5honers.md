@@ -1,6 +1,6 @@
 # 🎉 Honors and Awards
-- State Post Bureau "Science and Technology Talents in Postal Industry"
-- Talent title of "Young Science and Technology Talents of Transportation" of Ministry of Communications and the Third Prize of Scientific Progress of China Federation of Logistics and Purchasing (ranked first)
-- Nanjing expert database evaluation expert
-- Member of China Communications Society Post Communications Committee
-- Member of Jiangsu Communications Society and international well-known journal reviewer.
+- 国家邮政局“邮政科技人才”
+- 交通部“交通运输青年科技英才”称号、中国物流与采购联合会科技进步三等奖（排名第一）
+- 南京专家数据库评估专家
+- 中国通信学会邮政通信委员会委员
+- 江苏省交通学会会员，国际知名期刊审稿人。

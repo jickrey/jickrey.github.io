@@ -1,5 +1,5 @@
 # 🏆 Contests and Awards
-Guided students to participate in various logistics industry innovation competitions, and won the second prize in the seventh National College Students' Logistics Design Competition (2021) and the gold prize in the sixth National "Internet +" Express Industry Innovation and Entrepreneurship Competition (2022 "High-precision Positioning and Navigation Delivery Unmanned Vehicle System").
+引导学生参加各类物流产业创新大赛，荣获第七届全国大学生物流设计大赛二等奖（2021年）、第六届全国“互联网+”快递产业创新创业大赛金奖（2022年“高精度定位导航配送无人机系统”）。
 - The third prize of the International level of the 2024 United States (International) Undergraduate Mathematical Modeling Competition
 - National Second prize in the "Three Creations" Competition of National University Biotechnology and Application in 2023
 - The third prize of SF-X Smart Supply Chain College Elite Challenge 
