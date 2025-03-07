@@ -27,12 +27,12 @@
 ### 2021
 - [Proton exchange membrane fuel cell model parameter identification based on dynamic differential evolution with collective guidance factor algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0360544220321630).《Energy》.**Zhe Sun**,et al.Volume 216, 1 February 2021, 119056( SCI Top，Cas District 1，IF：14.9，**Cited 39 times** )
 - [Non-negative discriminative collective target nearest-neighbor representation](https://link.springer.com/article/10.1007/s41315-021-00169-0#:~:text=In%20this%20paper,%20we%20propose%20a%20novel%20method%20named%20Non-negative).《International Journal of Intelligent Robotics and Applications》.**Zhe Sun**,et al.19 April 2021,Volume 6, pages 1–9.
-- [Designing And Application Of Type-2 fuzzy PID control  for overhead crane systems](https://link.springer.com/article/10.1007/s41315-020-00157-w).《International Journal of Intelligent Robotics and Applications》.**Zhe Sun**, et al.Volume 5, pages 10–22, (2021)
+- [Designing And Application Of Type-2 fuzzy PID control  for overhead crane systems](https://link.springer.com/article/10.1007/s41315-020-00157-w).《International Journal of Intelligent Robotics and Applications》.**Zhe Sun**, et al.Volume 5, pages 10–22.
 
 ### 2020
 - [An Adaptive DE Algorithm Based Fuzzy Logic Anti-swing Controller for Overhead Crane Systems](https://link.springer.com/article/10.1007/s40815-020-00883-0).《International Journal of Fuzzy Systems》.**Zhe Sun**,et al.Volume 22, pages 1905–1921.
 
-### Before
+### 更早
 - [Designing and Optimization of Fuzzy Sliding Mode Controller for Nonlinear Systems](https://www.techscience.com/cmc/v61n1/23102).《Computers, Materials & Continua 2019》.**Zhe Sun**, et al. 61(1), 119-128.
 - [Type-2 Fuzzy Sliding Mode Anti-Swing Controller Design and Optimization for Overhead Crane](https://ieeexplore.ieee.org/document/8465976).《IEEE Access》.**Zhe Sun**,et al.Volume: 6, 51931 - 51938.
 - [Parameter identification of PEMFC model based on hybrid adaptive differential evolution algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0360544215008373) .《Energy》.**Zhe Sun**,et al.Volume 90, Part 2, October 2015, Pages 1334-1341( SCI Top，Cas District 1，IF：14.9，**Cited 138 times** )
