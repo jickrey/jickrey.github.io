@@ -41,9 +41,10 @@
 - [Optimal sliding mode controller design based on dynamic differential evolutionary algorithm for under-actuated crane systems](https://ieeexplore.ieee.org/document/8471163).《IEEE Access》.**Zhe Sun**,et al. Volume: 6, 67469 - 67476.
 
 ## 专利
-
+- 一种物流企业用户流失的预测方法，2024年授权：[*CN114677167A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
+- 一种基于价值细分和集成预测的快递客户流失预测方法，2024年授权：[*CN115115389A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
 - 一种多传感器融合的无人车路面坑洼检测方法，2023年授权：[*CN116311173A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
 - 一种考虑装卸约束的多车厢点对点取送货路径规划方法,2023年授权：[*CN115952944A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
--  基于货物量的人力资源配置方法, 2021年授权；[*CN113256027A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
+- 基于货物量的人力资源配置方法, 2021年授权；[*CN113256027A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
 - 一种适用于无人车的行人及障碍物检测算法,2020年授权：[*CN111914688A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
--  一种基于滑模控制理论的桥式吊车防摆控制方法,2018年授权；[*CN108427280A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
+- 一种基于滑模控制理论的桥式吊车防摆控制方法,2018年授权；[*CN108427280A*](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
